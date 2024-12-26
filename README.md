@@ -19,7 +19,7 @@ A simple Node.js website demonstrating basic routing and file serving capabiliti
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone git@github.com:parikhitm/Basic-Informational-Site.git
 ```
 
 2. Navigate to the project directory:
